@@ -28,6 +28,9 @@
                 </tr>";
             }
         ?>
+        <form action="createProcess.php" method="post">
+            <th>id</th>
+        </form>
     </table>
 </body>
 </html>

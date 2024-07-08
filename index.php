@@ -28,6 +28,9 @@
                 </tr>";
             }
         ?>
+        <tr>
+            <td colspan="4"><a href="create.php"><button>CREATE</button></a></td>
+        </tr>
     </table>
 </body>
 </html>
